@@ -7,9 +7,13 @@
 ## Activity 1
 ![](/assets/A1.png)
 
-## Activity 1
+## Activity 2
 ![](/assets/A2-1.png)
 ![](/assets/A2-2.png)
+
+## Activity 3
+![](/assets/A3-1.png)
+![](/assets/A3-2.png)
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
